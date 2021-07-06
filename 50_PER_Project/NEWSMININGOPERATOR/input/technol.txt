@@ -1,0 +1,6 @@
+Microsoft India launches new women's safety app 'Guardian' for Windows phone users.
+Microsoft India today said it is introducing Guardian, a new safety application (app), available exclusively for Windows phone users in India.
+
+Incidents such as 'Nirbhaya' prompted the global IT giant to come out with an app aiming at protecting women, Microsoft IT India Managing Director Raj Biyani said.
+
+Explaining its features, Biyani said Guardian enables users to switch on a 'track me' feature in the app that lets friends and family track them in real time using Microsoft Windows Azure cloud services and Bing Map APIs. 
